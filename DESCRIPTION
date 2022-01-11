@@ -26,3 +26,5 @@ LazyData: true
 RoxygenNote: 7.1.2
 Remotes:
     xiayh17/TFmapperTool
+URL: https://github.com/xiayh17/TFmapper2
+BugReports: https://github.com/xiayh17/TFmapper2/issues
